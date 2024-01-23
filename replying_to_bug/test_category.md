@@ -4,3 +4,4 @@ Hello. **Thank you that you contacted us.** Based on your problem description an
 
 # My version
 
+Hello. **Thank you for reporting the issue.** Based on your problem description and our experience we think that the problem is with Windows OS. **Make suse that** you install the latest Windows patches, **this should fix issue. Try to restart computer** after installing patches. **I will ask the technical department to take a look into your problem** if you need help with the path installations. **Please let me know if the same issue persist or happening new problems**.
